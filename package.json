@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@tokens-bruecke/sd-utils": "^3.0.0"
+  }
+}
