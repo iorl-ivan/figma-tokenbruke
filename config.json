@@ -7,17 +7,10 @@
         "files": [
           {
             "destination": "css/_variables.css",
-            "format": "css/variables"
-          }
-        ]
-      },
-      "android": {
-        "transformGroup": "android",
-        "buildPath": "build/android/",
-        "files": [
-          {
-            "destination": "font_dimens.xml",
-            "format": "android/fontDimens"
+            "format": "css/variables",
+            "options": {
+              "outputReferences": false
+            }
           }
         ]
       }
